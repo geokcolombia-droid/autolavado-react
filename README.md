@@ -1,31 +1,31 @@
-# 🚗 Autolavado Premium - Sistema de Reservas
+# Autolavado Premium - Sistema de Reservas
 
-## 📌 Descripción
+## Descripción
 Este proyecto es una aplicación web desarrollada en React que permite a los usuarios reservar servicios de autolavado de vehículos de forma rápida y sencilla.
 
-## 🎯 Funcionalidades
+## Funcionalidades
 - Registro de cliente
 - Selección de servicios
 - Cálculo automático de hora de entrega
 - Interfaz moderna y amigable
 - Diseño atractivo
 
-## 🛠 Tecnologías utilizadas
+## Tecnologías utilizadas
 - React JS
 - JavaScript
 - HTML5
 - CSS3
 
-## 🚀 Ejecución del proyecto
+## Ejecución del proyecto
 npm install
 npm start
 
-## 📷 Evidencias
+## Evidencias
 El sistema permite visualizar:
 - Formulario de reserva
 - Confirmación tipo ticket
 - Cálculo automático del servicio
 
-## 👨‍💻 Autor
+## Autor
 Javier Ramírez  
-SENA - ADSO
+SENA
